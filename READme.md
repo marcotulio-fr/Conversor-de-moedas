@@ -6,7 +6,9 @@
 <ul>
 <li>
 HTML
+  <br>
 CSS
+  <br>
 JS
 </li>
 </ul>
