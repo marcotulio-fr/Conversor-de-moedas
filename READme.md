@@ -10,4 +10,4 @@ CSS
   <br>
 JS
 </ul>
-<img scr="./img/img-readme-conversor.PNG">
+<img src="./img/img-readme-conversor.PNG" />
