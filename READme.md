@@ -4,10 +4,10 @@
 <h2>Tecnologias usadas</h2>
 <br>
 <ul>
-<li>
 HTML
+  <br>
 CSS
+  <br>
 JS
-</li>
 </ul>
 <img scr="./img/img-readme-conversor-de-moedas.png">
