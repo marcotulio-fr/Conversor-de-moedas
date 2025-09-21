@@ -10,4 +10,4 @@ CSS
 JS
 </li>
 </ul>
-<img scr="./img-readme-conversor-de-moedas.png">
+<img scr="./img/img-readme-conversor-de-moedas.png">
